@@ -5,5 +5,6 @@ function Person(name, age) {
 }
 
 const derek = new Person('Derek', 28);
+const sam = new Person('Sam', 27)
 
 // console.log(derek)
